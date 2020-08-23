@@ -1,1 +1,2 @@
 # bookstore_py
+A simple application of backend in python. The frontend.py file opens a GUI window where you can add the name of book, author of book, year and ISBN number. Then add it to the database (backend.py). Various other functionalities include deleting an entry, updating an entry. The backend.py file remembers the final changes and continues from where you last left off instead of cleaning out the database each time you close the program.
