@@ -1,0 +1,7 @@
+Adding an image to a database: 
+https://stackoverflow.com/questions/14704559/how-to-insert-image-in-mysql-databasetable
+
+
+After creating the executable file the database is empty so we can actually pass the original database file along with the exe file
+
+
